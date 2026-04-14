@@ -93,3 +93,35 @@ This project aims to:
 - Simulate real-world lunar rover missions
 - Develop autonomous decision-making systems
 - Model robotic exploration in extreme environments
+
+## ⚡ Installation & Run
+
+```bash
+# clone repository
+git clone https://github.com/your-username/lunar-rover.git
+```
+```bash
+# enter project folder
+cd lunar-rover
+```
+```bash
+# create virtual environment (optional)
+python -m venv venv
+```
+```bash
+# activate environment
+# Windows
+venv\Scripts\activate
+```
+```bash
+# Mac/Linux
+source venv/bin/activate
+```
+```bash
+# install dependencies
+pip install ursina
+```
+```bash
+# run project
+python main.py
+```

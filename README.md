@@ -85,15 +85,6 @@ The system combines:
 - Slopes → higher cost
 - Ice zones → lower cost (mission priority)
 
-
-## 🎯 Purpose
-
-This project aims to:
-
-- Simulate real-world lunar rover missions
-- Develop autonomous decision-making systems
-- Model robotic exploration in extreme environments
-
 ## ⚡ Installation & Run
 
 ```bash
